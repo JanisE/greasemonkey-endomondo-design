@@ -9,5 +9,5 @@
 
 var css = document.createElement('style');
 css.type = 'text/css';
-css.innerHTML = ".feedItem-footer .eoAvatar-image {visibility: hidden} .eoFeedWorkout-right {display: none}";
+css.innerHTML = ".feedItem-footer .eoComments-post .eoAvatar-image {visibility: hidden} .eoFeedWorkout-right {display: none}";
 document.head.appendChild(css);
