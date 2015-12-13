@@ -25,4 +25,4 @@ As you can see, personal records, photos and other important details are still t
 
 This is just an example, a base for further adjustments you can do by yourself.
 
-Go to "Tools -> Greasemonkey -> Manage User Scripts... -> Greasemonkey EndomondoDesign -> Edit this User Script" and edit the CSS adjustments as you see fit.
+In Firefox, go to "Tools -> Greasemonkey -> Manage User Scripts... -> Greasemonkey EndomondoDesign -> Edit this User Script" and edit the CSS adjustments as you see fit.
